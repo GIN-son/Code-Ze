@@ -15,6 +15,6 @@
 
 #### Github Stats
 
-![HellxGodLike's github stats](https://github-readme-stats.vercel.app/api?username=hellxgodlike&show_icons=true&theme=radical&hide_title=true)
+![HellxGodLike's github stats](https://github-readme-stats.vercel.app/api?username=hellxgodlike&show_icons=true&theme=chartreuse-dark&hide_title=true)
 
 </details>
