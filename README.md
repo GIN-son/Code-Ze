@@ -5,8 +5,6 @@
 
 <img src="https://user-images.githubusercontent.com/72937831/101273286-d069bc80-37b9-11eb-8585-d882d7d90d2d.gif">
 
-<script src="https://rawgit.com/HellxGodLike/repo-card/master/repo-card.min.js"></script>
-
 - **I am Lazy af**
 - _If u have something interesting then I can give it a try_
 - _Contact me on TG only if important_
